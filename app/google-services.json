@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "757805293817",
+    "firebase_url": "https://hospitaldatabase-9cbe0.firebaseio.com",
+    "project_id": "hospitaldatabase-9cbe0",
+    "storage_bucket": "hospitaldatabase-9cbe0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757805293817:android:bd48b2649223a9c6",
+        "android_client_info": {
+          "package_name": "com.example.user.easyfindern"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757805293817-6l13rsj47jb862a9581cfqfqlsce8027.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXfwkaiJ97A5IdI5l6ATgr1qRhq4NLeVI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
